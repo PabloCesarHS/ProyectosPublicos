@@ -1,0 +1,21 @@
+Rq?
+Tramas? podría decirse que es tipo de operación en descripción
+ATMTrama ; donde se registran todas las transacciones sin autorisacion
+ATMMov las transacciones autorizadas
+La devolución de UNIBANCA se llama compensación+ un nro de secuencia
+
+106 20 237 1 000000302
+Defecto agencia cuentasueldo moneda nrosecuencial
+
+
+Tarjeta
+Condición: es el estado 1 activo 3 bloqueado 50 cancelación -1 inominado(almacen pendiente de asigancion)
+Tipo de tarjea: narurtal judirica ciencianos(ita_tipotarjeta)
+Cuenta en cascada (utiliza el saldo de tu segunda cuenta) (puedes tener hasta 5 cuentas)
+
+Se hace un extorno no se registra en ATMMov sino en ATM 
+
+ATMSUcesos( es para  ir guardando los suscesos mientras se graba una transaccion)
+
+
+
